@@ -1,0 +1,59 @@
+.bg-black{
+  background-color: black;
+}
+.bg-light-black{
+  background-color: #262626 !important;
+}
+.text-black{
+  color: black;
+}
+.text-light-black{
+  color: #262626;
+}
+.bg-dark-primary{
+  background-color: #fcbc73 !important;
+}
+.text-dark-primary{
+  color: #fcbc73 !important;
+}
+.bg-light{
+  background-color: white;
+}
+.bg-light-2{
+  background-color: #ffffff;
+}
+.bg-light-primary{
+  background-color: #191659 !important;
+}
+.text-light-primary{
+  color: #191659 !important;
+}
+
+.bg-topo {
+  background: #ffc600 !important;
+}
+.espaco-titulo{
+  padding: 50px 0 50px 0;
+}
+.link-carrinho{
+  text-decoration: none !important;
+  font-weight: 800;
+}
+.texto-carrinho a svg{
+  margin-right: 10px !important;
+}
+.bg-adicionar {
+  background: #ddad00 !important ;
+}
+.frase-rodape {
+  font-size: 1.4rem;
+  font-style: italic;
+  font-weight: 800;
+  padding-top: 50px;
+}
+.frase-rodape span {
+  display: block;
+  font-size: 1rem;
+  font-weight: normal;
+  font-style: normal;
+}
